@@ -3,6 +3,7 @@ config.inc.php
 temp
 /files
 .htaccess
+.htpasswd
 .project
 .buildpath
 .settings
